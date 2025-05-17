@@ -1,8 +1,5 @@
 body {
-  background-image: url('https://img.freepik.com/free-vector/red-background-elegant-design_677411-4234.jpg?t=st=1746326860~exp=1746330460~hmac=afacb9e0b7596f5424714a1881684ef39caf594ee4d519a1fc42d49e8a95184b&w=1380');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-color:rgb(82, 7, 7);
   min-height: 100vh;
   margin: 0;
   padding: 1rem;
